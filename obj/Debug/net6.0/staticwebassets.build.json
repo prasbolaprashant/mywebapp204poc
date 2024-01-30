@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1okWWOlFnHIBjpWsJja2lWCRqm3TP1F+oVfxF45Jz1s=",
+  "Source": "mypocwebapp",
+  "BasePath": "_content/mypocwebapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
